@@ -1,10 +1,6 @@
 /*
-
 Queries used for Tableau Project
-
 */
-
-
 
 -- 1. 
 
@@ -58,16 +54,6 @@ From PortfolioProject..CovidDeaths
 --Where location like '%states%'
 Group by Location, Population, date
 order by PercentPopulationInfected desc
-
-
-
-
-
-
-
-
-
-
 
 
 -- Queries I originally had, but excluded some because it created too long of video
